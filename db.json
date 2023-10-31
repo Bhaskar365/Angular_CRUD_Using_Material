@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "ww",
+      "lastName": "ww",
+      "email": "w@test.in",
+      "dob": "2023-04-23T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduation/Masters",
+      "company": "ww",
+      "experience": 2,
+      "package": 4,
+      "id": 4
+    },
+    {
+      "firstName": "ee",
+      "lastName": "ee",
+      "email": "e@test.com",
+      "dob": "2023-04-23T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduation/Bachelors",
+      "company": "ee",
+      "experience": 2,
+      "package": 4,
+      "id": 5
+    },
+    {
+      "firstName": "qq",
+      "lastName": "qq",
+      "email": "q@test.com",
+      "dob": "2023-03-31T18:30:00.000Z",
+      "gender": "male",
+      "education": "X",
+      "company": "qq",
+      "experience": 3,
+      "package": 56,
+      "id": 6
+    },
+    {
+      "firstName": "tt",
+      "lastName": "tt",
+      "email": "t@test.com",
+      "dob": "2023-04-23T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation/Bachelors",
+      "company": "tt",
+      "experience": 2,
+      "package": 5,
+      "id": 7
+    }
+  ]
+}
